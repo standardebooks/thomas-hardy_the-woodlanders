@@ -56,6 +56,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/482</dc:source>
 		<dc:source>https://archive.org/details/cu31924013478346</dc:source>
+		<dc:source>https://archive.org/details/woodlanders01hard</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
