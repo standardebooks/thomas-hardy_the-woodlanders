@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Woodlanders</dc:title>
 		<meta property="file-as" refines="#title">Woodlanders, The</meta>
 		<dc:subject id="subject-1">Psychological fiction</dc:subject>
@@ -37,22 +37,28 @@
 		<dc:subject id="subject-6">Forests and forestry -- Fiction</dc:subject>
 		<dc:subject id="subject-7">Arranged marriage -- Fiction</dc:subject>
 		<dc:subject id="subject-8">Dorset (England) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/482</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/482</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/482</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/482</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/482</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/482</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/482</meta>
-		<meta property="meta-auth" refines="#subject-8">https://www.gutenberg.org/ebooks/482</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85108438</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008112615</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85098569</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008111427</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008103614</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2007101091</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">sh2008102342</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young woman struggles with the opposing forces of class and love.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Grace Melbury, daughter of a rich local wood-trader, has been raised beyond her family through years of expensive education. Coming home, she finds herself pulled between her love for her childhood friend Giles Winterborne, and the allure of the enigmatic Doctor Fitzpiers. Giles and Edgar have their own admirers too, and the backdrop of the bucolic pastures and woodlands of an impressionistic take on south-west England provides the perfect setting for their story.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Woodlanders&lt;/i&gt; was commissioned by &lt;i&gt;Macmillan’s Magazine&lt;/i&gt; in 1884, and was serialized and later published as a novel in 1887. The story’s themes of infidelity and less-than-blissful marriage were unusual for the time and drew ire from campaigners, but on its publication it garnered immediate critical acclaim. Thomas Hardy later regarded it as the favorite of his stories, and it’s remained perennially popular as a novel and as a series of adaptations to theatre, opera and film.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/482</dc:source>
 		<dc:source>https://archive.org/details/cu31924013478346</dc:source>
