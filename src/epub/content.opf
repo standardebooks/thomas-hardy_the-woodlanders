@@ -54,6 +54,8 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2008102342</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Wessex</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
 		<dc:description id="description">A young woman struggles with the opposing forces of class and love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Grace Melbury, daughter of a rich local wood-trader, has been raised beyond her family through years of expensive education. Coming home, she finds herself pulled between her love for her childhood friend Giles Winterborne, and the allure of the enigmatic Doctor Fitzpiers. Giles and Edgar have their own admirers too, and the backdrop of the bucolic pastures and woodlands of an impressionistic take on south-west England provides the perfect setting for their story.&lt;/p&gt;
