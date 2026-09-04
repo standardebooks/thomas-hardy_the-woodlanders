@@ -32,12 +32,12 @@
 		<meta property="file-as" refines="#title">Woodlanders, The</meta>
 		<dc:subject id="subject-1">Psychological fiction</dc:subject>
 		<dc:subject id="subject-2">Love stories</dc:subject>
-		<dc:subject id="subject-3">Triangles (Interpersonal relations) -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Triangles (Interpersonal relations)--Fiction</dc:subject>
 		<dc:subject id="subject-4">Pastoral fiction</dc:subject>
-		<dc:subject id="subject-5">Social classes -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Forests and forestry -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Arranged marriage -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Dorset (England) -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Social classes--Fiction</dc:subject>
+		<dc:subject id="subject-6">Forests and forestry--Fiction</dc:subject>
+		<dc:subject id="subject-7">Arranged marriage--Fiction</dc:subject>
+		<dc:subject id="subject-8">Dorset (England)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85108438</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
